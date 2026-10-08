@@ -139,11 +139,4 @@ Programming Fundamentals
           ↓
  Semantic Search & AI Agents
 ```
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SinchanaM9832&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinchanaM9832&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-📫 Let's Connect
-<p align="center"> <a href="https://github.com/SinchanaM9832"> <img src="https://img.shields.io/badge/GitHub-SinchanaM9832-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/Sinchana-mbbb8872a5/"> <img src="https://www.linkedin.com/in/sinchana-m-bbb8872a5/" /> </a> </p>
-<p align="center">
-💡 "Learn. Build. Improve. Repeat."
-</p> 
-          
+
