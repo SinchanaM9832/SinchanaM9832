@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Sinchana M
 
 ### 💻 Computer Science & Engineering Student | Aspiring Software Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+Backend+Development;RAG+%7C+Semantic+Search+%7C+AI+Applications;Building+Practical+Software+Projects;Always+Learning+%26+Improving" alt="Typing SVG" />
+</p>
 🎓 Education
 
 B.E. Computer Science and Engineering
@@ -8,17 +11,8 @@ B.E. Computer Science and Engineering
 Bahubali College of Engineering
 2023 – 2027
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+Backend+Development;RAG+%7C+Semantic+Search+%7C+AI+Applications;Building+Practical+Software+Projects;Always+Learning+%26+Improving" alt="Typing SVG" />
-</p>
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SinchanaM9832&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinchanaM9832&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-📫 Let's Connect
-<p align="center"> <a href="https://github.com/SinchanaM9832"> <img src="https://img.shields.io/badge/GitHub-SinchanaM9832-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/Sinchana-mbbb8872a5/"> <img src="https://img.shields.io/badge/LinkedIn-Sinchana%20M-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
-<p align="center">
-💡 "Learn. Build. Improve. Repeat."
-</p> ```
----
+
+
 
 ## 👩‍💻 About Me
 
@@ -144,3 +138,11 @@ Programming Fundamentals
      RAG & LLMs
           ↓
  Semantic Search & AI Agents
+```
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SinchanaM9832&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinchanaM9832&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+📫 Let's Connect
+<p align="center"> <a href="https://github.com/SinchanaM9832"> <img src="https://img.shields.io/badge/GitHub-SinchanaM9832-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/Sinchana-mbbb8872a5/"> <img src="https://img.shields.io/badge/LinkedIn-Sinchana%20M-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+<p align="center">
+💡 "Learn. Build. Improve. Repeat."
+</p> ```
